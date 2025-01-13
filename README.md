@@ -4,4 +4,5 @@
 This is the space where I showcase all my passion projects.  
 Come in, explore, and uncover the magic behind my creations!
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrstnmmn&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
+<h1 align="center">[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chrstnmmn&theme=synthwave&hide_border=true)](https://git.io/streak-stats)</h1>
+
